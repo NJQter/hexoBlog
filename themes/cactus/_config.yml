@@ -14,13 +14,11 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  Home: /
-  ReactNative: /
-  iOS: /
-  Jenkins && Fastlane: /
-  Linux: /
-  #home: /
-  #about: /about/
+  首页: /
+  iOS开发: /tags/iOS/
+  Android开发: /tags/Android/
+  ReactNative开发: /tags/ReactNative
+  关于: /2018/12/21/关于/
   #articles: /archives/
   #projects: projects_url
 

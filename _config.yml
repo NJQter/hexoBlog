@@ -5,9 +5,9 @@
 # Site
 title: NJQter
 subtitle: 伤其身者不在外物，皆由嗜欲以成其祸。
-description: "古人学问无遗力，少壮工夫老始成。纸上得来终觉浅，绝知此事要躬行。"
+description: ""
 keywords:
-author: John Doe
+author: NJQter
 language: zh-CN
 timezone:
 
@@ -30,6 +30,7 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
+#new_post_name: :year-:month-:day-:title.md
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -83,9 +84,9 @@ deploy:
   type:
 
 # nav
-nav:
-  Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: http://github.com/probberechts
-  LINK_NAME: https://www.baidu.com/
+#nav:
+#  Home: /
+#  About: /about/
+#  Writing: /archives/
+#  Projects: http://github.com/probberechts
+#  LINK_NAME: https://www.baidu.com/
